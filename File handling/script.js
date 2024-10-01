@@ -6,3 +6,5 @@ fs.writeFile("File1.txt", "Hello! what's going on......", function (err) {
     console.log("Successfully created the file");
   }
 });
+
+
